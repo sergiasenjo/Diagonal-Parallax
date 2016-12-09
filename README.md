@@ -1,4 +1,4 @@
-# Grunt Basic Theme
+# Diagonal Parallax
 
 ### Installation
 
